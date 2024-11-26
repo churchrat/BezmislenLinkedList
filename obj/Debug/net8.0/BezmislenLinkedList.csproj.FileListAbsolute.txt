@@ -1,0 +1,14 @@
+D:\homeworke\BezmislenLinkedList\bin\Debug\net8.0\BezmislenLinkedList.exe
+D:\homeworke\BezmislenLinkedList\bin\Debug\net8.0\BezmislenLinkedList.deps.json
+D:\homeworke\BezmislenLinkedList\bin\Debug\net8.0\BezmislenLinkedList.runtimeconfig.json
+D:\homeworke\BezmislenLinkedList\bin\Debug\net8.0\BezmislenLinkedList.dll
+D:\homeworke\BezmislenLinkedList\bin\Debug\net8.0\BezmislenLinkedList.pdb
+D:\homeworke\BezmislenLinkedList\obj\Debug\net8.0\BezmislenLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+D:\homeworke\BezmislenLinkedList\obj\Debug\net8.0\BezmislenLinkedList.AssemblyInfoInputs.cache
+D:\homeworke\BezmislenLinkedList\obj\Debug\net8.0\BezmislenLinkedList.AssemblyInfo.cs
+D:\homeworke\BezmislenLinkedList\obj\Debug\net8.0\BezmislenLinkedList.csproj.CoreCompileInputs.cache
+D:\homeworke\BezmislenLinkedList\obj\Debug\net8.0\BezmislenLinkedList.dll
+D:\homeworke\BezmislenLinkedList\obj\Debug\net8.0\refint\BezmislenLinkedList.dll
+D:\homeworke\BezmislenLinkedList\obj\Debug\net8.0\BezmislenLinkedList.pdb
+D:\homeworke\BezmislenLinkedList\obj\Debug\net8.0\BezmislenLinkedList.genruntimeconfig.cache
+D:\homeworke\BezmislenLinkedList\obj\Debug\net8.0\ref\BezmislenLinkedList.dll
